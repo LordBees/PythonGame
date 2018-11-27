@@ -1,0 +1,1 @@
+##build resources to chuck in dist for redistribiution

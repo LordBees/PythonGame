@@ -1,0 +1,1 @@
+pyinstaller --onefile RUN_GAME.py
